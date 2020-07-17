@@ -1,7 +1,16 @@
-# Simplified Vanilla-Variational Autoencoders in PyTorch
 
 
-# Data Used :
+        
+        
+
+
+# Simplified Vanilla-Variational Autoencoders in PyTorch 
+
+![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000) 
+[![Generic badge](https://img.shields.io/badge/PyTorch-Passing-<COLOR>.svg)](https://shields.io/)
+
+
+# Data Used [![Generic badge](https://img.shields.io/badge/kaggle-ChestXRAY-blue.svg)](https://shields.io/) :
 
 Chest XRAY Images(Source - Kaggle)
 
@@ -12,7 +21,7 @@ Sample Image :
 ![alt text](https://github.com/cskarthik7/Vanilla-VAE-PyTorch/blob/master/download.jpeg?raw=true)
 
 
-# Model Architecure : 
+# Model Architecure ![Code Climate](https://codeclimate.com/github/dwyl/esta/badges/gpa.svg) : 
 
 The model is based on Encoder-Decoder networks .
 
@@ -24,7 +33,7 @@ Optimizer used : Adam
 
 Loss functions : KL Divergence Loss and Binary Cross Entropy Loss
 
-# Training :
+# Training [![Generic badge](https://img.shields.io/badge/Code-Passing-blue.svg)](https://shields.io/):
 
 The model was trained for 50 Epochs with learning rate of 0.003
 
